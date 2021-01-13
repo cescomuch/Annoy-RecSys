@@ -1,3 +1,4 @@
 # Annoy-RecSys
 
-Progetto relativo al corso "Apprendimento Automatico", Università degli Studi di Padova.
+Progetto relativo al corso di "Apprendimento Automatico",
+Università degli Studi di Padova.
